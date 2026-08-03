@@ -1,4 +1,4 @@
-# 🧠 Socratric Tutor
+# Socratric Tutor
 
 A personalized explanation and comprehension-testing system, powered by Gemini. Pick a persona, get an explanation tailored to it, then prove you actually understood it — not just that you read it.
 
