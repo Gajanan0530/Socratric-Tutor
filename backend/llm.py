@@ -15,7 +15,7 @@ from prompts import (
 
 load_dotenv()
 
-MODEL = "gemini-2.5-flash"
+MODEL = "gemini-3.5-flash-lite"
 
 
 def get_client() -> genai.Client:
