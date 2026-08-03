@@ -28,7 +28,7 @@ export default function Header({ stage, xp, level, streak }) {
           <div style={{ width: 8, height: 8, borderRadius: '50%', background: C.bg }} />
         </div>
         <span style={{ fontSize: 14, fontWeight: 700, color: C.cr, letterSpacing: '-0.2px' }}>
-          Socratic
+          Socratric
         </span>
       </div>
 
